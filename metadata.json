@@ -1,0 +1,6 @@
+{
+  "name": "Project Impok",
+  "description": "Your MP2 Financial Coach — “Pag may itinanim, may aanihin.” Plan your Pag-IBIG MP2 savings with confidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
